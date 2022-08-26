@@ -15,7 +15,7 @@ const styles = StyleSheet.create({
       flexDirection: "row",
       borderBottomWidth: StyleSheet.hairlineWidth,
       // borderBottomColor: '#282828',
-      borderBottomColor: "grey",
+      borderBottomColor: "#282828",
       padding: 15,
       justifyContent: "space-between",
     },
